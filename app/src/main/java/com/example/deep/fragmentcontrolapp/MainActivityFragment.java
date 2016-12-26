@@ -35,5 +35,5 @@ public class MainActivityFragment extends AppCompatActivity {
         ft.replace(R.id.fragment,frb,"Fragment2");
         ft.commit();
     }
-
+//Hello
 }
